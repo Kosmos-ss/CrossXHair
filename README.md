@@ -2,7 +2,7 @@
 
 How to Install ;
 
-1 -- download the installer
+1 -- download the installer (via mediaFire)
 
 2 -- add desktop shortcut (YOU MIGHT NEED TO SET MANUALLY THE SHORTCUT LOCATION)
 
