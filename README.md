@@ -2,7 +2,7 @@
 
 How to Install ;
 
-1 -- download the installer (via mediaFire)
+1 -- download the installer (via mediaFire) -- https://www.mediafire.com/file/0r55m65bqpcco2u/CrossXHair+Setup.exe/file
 
 2 -- add desktop shortcut (YOU MIGHT NEED TO SET MANUALLY THE SHORTCUT LOCATION)
 
